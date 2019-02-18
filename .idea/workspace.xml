@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2812f9d9-3e72-4d64-87e2-32c5ea3d7cd4" name="Default Changelist" comment="" />
+    <list default="true" id="2812f9d9-3e72-4d64-87e2-32c5ea3d7cd4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/vars/sayHello.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/vars/sayHello.groovy" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,12 +12,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vars/sayHello.groovy">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jenkins/GlobalVars.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -35,6 +41,7 @@
         <option value="$PROJECT_DIR$/src/com/pb/jenkins-libs/GlobalVars.groovy" />
         <option value="$PROJECT_DIR$/src/com/pb/jenkins/GlobalVars.groovy" />
         <option value="$PROJECT_DIR$/src/com/jenkins/GlobalVars.groovy" />
+        <option value="$PROJECT_DIR$/vars/sayHello.groovy" />
       </list>
     </option>
   </component>
@@ -125,12 +132,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550512736323</updated>
-      <workItem from="1550512737625" duration="796000" />
+      <workItem from="1550512737625" duration="1238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="796000" />
+    <option name="totallyTimeSpent" value="1238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="948" y="165" width="1558" height="839" extended-state="0" />
@@ -180,9 +187,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vars/sayHello.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -195,6 +199,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vars/sayHello.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
