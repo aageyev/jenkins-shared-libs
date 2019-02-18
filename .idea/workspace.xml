@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2812f9d9-3e72-4d64-87e2-32c5ea3d7cd4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vars/sayHello.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/vars/sayHello.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vars/getDockerImageTags.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vars/sayHello.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vars/getDockerImageTags.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -42,6 +52,7 @@
         <option value="$PROJECT_DIR$/src/com/pb/jenkins/GlobalVars.groovy" />
         <option value="$PROJECT_DIR$/src/com/jenkins/GlobalVars.groovy" />
         <option value="$PROJECT_DIR$/vars/sayHello.groovy" />
+        <option value="$PROJECT_DIR$/vars/getDockerImageTags.groovy" />
       </list>
     </option>
   </component>
@@ -109,6 +120,7 @@
       <recent name="$PROJECT_DIR$/src/com" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vars" />
       <recent name="$PROJECT_DIR$/src/com/pb" />
       <recent name="$PROJECT_DIR$/src/com/pb/jenkins-libs" />
     </key>
@@ -132,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550512736323</updated>
-      <workItem from="1550512737625" duration="1238000" />
+      <workItem from="1550512737625" duration="1531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1238000" />
+    <option name="totallyTimeSpent" value="1531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="948" y="165" width="1558" height="839" extended-state="0" />
@@ -206,6 +218,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vars/getDockerImageTags.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
